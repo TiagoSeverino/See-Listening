@@ -16,6 +16,8 @@ alt="Robocup Rescue Maze Robot" width="480" height="360" border="10" /></a>
 
 ## Requirements
 
+    git clone --recursive https://github.com/TiagoSeverino/See-Listening
+
   - [SPI-Py](https://github.com/lthiery/SPI-Py)
 
   - [Text To Speech](http://elinux.org/RPi_Text_to_Speech_(Speech_Synthesis)):

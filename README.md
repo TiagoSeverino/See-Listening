@@ -11,7 +11,7 @@ Feel free to share, improve and give your opinion about this project.
   - 3rd Place in Freebots Junior at Portuguese Robotics Open 2017.
 
 ## Demonstration
-<a href="https://www.youtube.com/watch?v=Mw69nKu73a0" target="_blank"><img src="https://i.ytimg.com/vi/Mw69nKu73a0/hqdefault.jpg" 
+<a href="https://www.youtube.com/watch?v=seoem99iT20" target="_blank"><img src="https://i.ytimg.com/vi/Mw69nKu73a0/hqdefault.jpg" 
 alt="Robocup Rescue Maze Robot" width="480" height="360" border="10" /></a>
 
 ## Requirements

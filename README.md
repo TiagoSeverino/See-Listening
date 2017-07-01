@@ -8,7 +8,7 @@ This project is not finished yet and we'll keep improving it's functionalities.
 Feel free to share, improve, give your opinion and ideas about the future of this project.
 
 ## Awards
-  - 2nd Place in the 14th edition of the Ilídio Pinho Foundation Award "Science in the School" Award
+  - 2nd Place in the 14th edition of the Ilídio Pinho Foundation "Science in the School" Award
   - 3rd Place in Freebots Junior at Portuguese Robotics Open 2017.
 
 ## Demonstration
